@@ -11,7 +11,7 @@ The primary feeling invoked by using Technotex is one of playfulness and inventi
 
 ## Table of Initially Supported Products
 | Product | Description | Essence | Phonetic Root |
-|-|-|-|
+|-|-|-|-|
 | Storage | Manages data storage and retrieval across various formats. | Stability, foundation, archive | "stoar" |
 | Compute | Provides processing power for running applications and services. | Speed, power, flexibility | "kimp" |
 | Networking | Connects and manages traffic between compute resources. | Connection, flow, integration | "netra" |
