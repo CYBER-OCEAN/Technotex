@@ -9,9 +9,9 @@ The methodology behind creating Technotex involved a systematic approach where k
 ## Target Feeling
 The primary feeling invoked by using Technotex is one of playfulness and inventiveness. The language aims to break away from the often dry and complex terminology associated with cloud technology, instead offering a fun and imaginative way to engage with tech products. Users of Technotex should experience a sense of delight and novelty as they explore and contribute to a more vibrant and colorful tech lexicon.
 
-## Table of Initial Products and Their Descriptions
-| Product | Description | Phonetic Root
-|-|-|
+## Table of Initially Supported Products
+| Product | Description | Phonetic Root |
+|-|-|-|
 | Storage | Manages data with innovative and reliable solutions. | "stoar" |
 | Compute | Powers applications with creativity and robust processing. | "kimp" |
 | Networking | Connects systems with seamless and dynamic interactions. | "netra" |
